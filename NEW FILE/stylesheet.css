@@ -1,0 +1,50 @@
+*{
+  margin: 0;
+padding: 0;
+box-sizing: border-box; 
+   
+}
+#H4.heading {
+    color: rgb(29, 4, 4);
+}
+hr{
+   color: black;
+  
+   border-style: double;
+}
+a:hover{
+   color: rgb(30, 104, 224);
+
+}
+header{
+    display: block;
+    margin: auto;    
+    justify-content: center;
+    position: relative;
+
+
+}
+.H2{
+    display: flex;
+    box-sizing: border-box;
+    justify-content: center;
+    margin-top: revert;
+    color: blue;
+}
+.dev{
+    display: flex;
+  position: relative;
+  background-color: antiquewhite;
+  justify-content: center;
+
+}
+
+.visit {
+  display: inline-block;
+  padding: 20px;
+  margin: auto;
+  border: 2px solid red;
+  height: 120px;
+  width: 120px;
+}
+
